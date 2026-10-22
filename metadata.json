@@ -1,0 +1,6 @@
+{
+  "name": "NexusOS Agent",
+  "description": "Autonomous Android AI Agent with screen perception, root automation, voice control, freelancing autopilot, and social CRM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

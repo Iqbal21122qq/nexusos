@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer hexagonal cyber ring -->
+    <path
+        android:pathData="M54,28 L76,41 L76,67 L54,80 L32,67 L32,41 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000" />
+
+    <!-- Inner AI Nexus Core Diamond -->
+    <path
+        android:pathData="M54,36 L68,54 L54,72 L40,54 Z"
+        android:fillColor="#00E5FF" />
+
+    <!-- Center Glowing Eye / Neural Dot -->
+    <path
+        android:pathData="M54,49 A5,5 0 1,1 53.99,49 Z"
+        android:fillColor="#0A0F1D" />
+
+    <!-- Circuit nodes -->
+    <path
+        android:pathData="M54,28 L54,22 M76,41 L81,38 M76,67 L81,70 M54,80 L54,86 M32,67 L27,70 M32,41 L27,38"
+        android:strokeColor="#64FFDA"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>

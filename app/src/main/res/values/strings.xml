@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NexusOS Agent</string>
+    <string name="accessibility_service_description">Enables NexusOS Agent to observe UI hierarchy, perform navigation actions, and activate the hardware volume kill switch.</string>
+</resources>
